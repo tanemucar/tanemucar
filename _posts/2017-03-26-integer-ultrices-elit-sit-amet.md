@@ -1,5 +1,5 @@
 ---
-title: Integer Ultricies, Elit Sit Amet
+title: Deneme
 teaser: Aliquet semper, diam odio sollicitudin ante.
 category: lacinia
 tags: [posuere, odio, vestibulum]
