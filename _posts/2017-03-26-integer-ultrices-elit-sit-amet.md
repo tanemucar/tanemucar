@@ -1,5 +1,5 @@
 ---
-title: Deneme
+title: Deneme 2
 teaser: Aliquet semper, diam odio sollicitudin ante.
 category: lacinia
 tags: [posuere, odio, vestibulum]
